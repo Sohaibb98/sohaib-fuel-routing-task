@@ -1,0 +1,22 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django local database
+db.sqlite3
+
+# Environment variables
+.env
+
+# # Large assessment dataset
+# fuel-prices-for-be-assessment.csv
+
+# IDE / System files (Optional but highly recommended)
+.vscode/
+.idea/
+.DS_Store
+ThThumbs.db
+
+venv/
